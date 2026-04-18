@@ -1,6 +1,7 @@
 import json
 from database import VOTERS_FILE, BALLOT_FILE, read_voters, read_ballots
 from crypto_utils import encrypt_vote, generate_keys
+from integrity import calculate_hash, get_last_hash
 import secrets
 
 
@@ -32,13 +33,17 @@ def vote(tc, vote_choice):
 
             token = generate_token()
             encrypted_vote = encrypt_vote(vote_choice)
+            previous_hash = get_last_hash()
+            current_hash = calculate_hash(token, encrypted_vote, previous_hash)
 
             voter["token"] = token
             voter["oy_kullandi"] = True
 
             ballot = {
                 "token": token,
-                "encrypted_vote": encrypted_vote
+                "encrypted_vote": encrypted_vote,
+                "previous_hash": previous_hash,
+                "current_hash": current_hash
             }
 
             ballots.append(ballot)
