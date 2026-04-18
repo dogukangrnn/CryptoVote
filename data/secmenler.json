@@ -1,13 +1,13 @@
 [
     {
         "tc": "11111111111",
-        "oy_kullandi": true,
-        "token": "32bc31dac21b6390"
+        "oy_kullandi": false,
+        "token": null
     },
     {
         "tc": "22222222222",
-        "oy_kullandi": false,
-        "token": null
+        "oy_kullandi": true,
+        "token": "7700024e1c3bf744"
     },
     {
         "tc": "33333333333",
