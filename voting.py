@@ -1,8 +1,8 @@
 import json
-from database import VOTERS_FILE, BALLOT_FILE, read_voters, read_ballots
-from crypto_utils import encrypt_vote, generate_keys
-from integrity import calculate_hash, get_last_hash
 import secrets
+from database import VOTERS_FILE, BALLOT_FILE, read_voters, read_ballots
+from crypto_utils import encrypt_vote, generate_keys, encrypt_file
+from integrity import calculate_hash, get_last_hash
 
 
 def save_voters(voters):
@@ -51,8 +51,11 @@ def vote(tc, vote_choice):
             save_voters(voters)
             save_ballots(ballots)
 
+            encrypt_file("data/sandik.json", "data/sandik.enc")
+
             print("✅ Oy başarıyla kaydedildi!")
             print("Token:", token)
+            print("🔐 Sandık dosyasının AES şifreli kopyası oluşturuldu.")
             return
 
     print("❌ Seçmen bulunamadı!")

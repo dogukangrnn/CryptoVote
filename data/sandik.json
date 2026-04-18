@@ -10,5 +10,11 @@
         "encrypted_vote": "Xehgo5ZYZDSBIIjVEayJvPO5PDFV4LyQWOY3b7qStu4G5WIN7xNEklplaoPlNECU/5tpeqFhievY5On7y/bALLoCPzCcRREuwxRMTk/tXUsqdFOhZxC0RyQkQwFxzJL6ZthKs/gCgphYsWkyT6Kbx713164jvNaFQwJSEmzXj+5Yd5joEqMcweV1zInnXyYd+3MSepcd9KrvshqdxRsalYW6EjFCh35IVsNpw44R7WktCETb2IBLaMX+etI3+t8AtaT2pq/zVrl3DqG0y7hqngNS+DbgaNNWexzUavpB7Uhy4gsr4KPH+C2sWsZfi60aHWJ5Azfl5BXFwz2RA8kViA==",
         "previous_hash": "9f3fca43a62d544d93b30120355a7190bb96b13dfaf5e99d5085159d0ca58886",
         "current_hash": "00662f9791457bab8751a867f118d0ed02608295246c043af1b3b96385dce97e"
+    },
+    {
+        "token": "b93c8e65fe65ec84",
+        "encrypted_vote": "Aue6cJGCKbp60W/PLBEINpTRYXJ5nNJ+6ujxdBkhdD4JHBgPRL7WyJpg8FYNC43YloQuBDzgaBVkfNORlLnrvQTwubwhRmFTvpvZhcsFTi7Z1IgSGSuf8qoUggYhI+uKxiz6w2cWnXpALu3e5vMQz+C6wHvx4BbEnwUN/KQgX0ZjgBxH9jsMKlLEnWj9HwzEQY3W+tT1PrL1vZtkQpdKnrOsM+X5N0WHk53G/nCGHeStqQxtdEhKtfMPs/HRgF6vZBk3leOIuU8vTd4hiRnsiPip7nNvObVPkfmoa0t/ilFDfuUZmp8Wh+QobcfqhHl87RVaZTogUHxUKFZjixXrzw==",
+        "previous_hash": "00662f9791457bab8751a867f118d0ed02608295246c043af1b3b96385dce97e",
+        "current_hash": "d5b6b7038c4b2d23035c108749c4f8d217c9494b536921d8ad5df79dd3138c58"
     }
 ]
