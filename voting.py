@@ -1,5 +1,6 @@
 import json
 import secrets
+from datetime import datetime
 from database import VOTERS_FILE, BALLOT_FILE, read_voters, read_ballots
 from crypto_utils import encrypt_vote, generate_keys, encrypt_file
 from integrity import calculate_hash, get_last_hash
@@ -28,13 +29,13 @@ def vote(tc, vote_choice):
     for voter in voters:
         if voter["tc"] == tc:
             if voter["oy_kullandi"]:
-                print("❌ Bu kişi zaten oy kullanmış!")
-                return
+                return False, "Bu kişi zaten oy kullanmış!"
 
             token = generate_token()
             encrypted_vote = encrypt_vote(vote_choice)
+            timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             previous_hash = get_last_hash()
-            current_hash = calculate_hash(token, encrypted_vote, previous_hash)
+            current_hash = calculate_hash(token, encrypted_vote, timestamp, previous_hash)
 
             voter["token"] = token
             voter["oy_kullandi"] = True
@@ -42,6 +43,7 @@ def vote(tc, vote_choice):
             ballot = {
                 "token": token,
                 "encrypted_vote": encrypted_vote,
+                "timestamp": timestamp,
                 "previous_hash": previous_hash,
                 "current_hash": current_hash
             }
@@ -50,18 +52,15 @@ def vote(tc, vote_choice):
 
             save_voters(voters)
             save_ballots(ballots)
-
             encrypt_file("data/sandik.json", "data/sandik.enc")
 
-            print("✅ Oy başarıyla kaydedildi!")
-            print("Token:", token)
-            print("🔐 Sandık dosyasının AES şifreli kopyası oluşturuldu.")
-            return
+            return True, f"Oy başarıyla kaydedildi.\nToken: {token}"
 
-    print("❌ Seçmen bulunamadı!")
+    return False, "Seçmen bulunamadı!"
 
 
 if __name__ == "__main__":
     tc = input("TC Kimlik No: ")
     vote_choice = input("Oy tercihi: ")
-    vote(tc, vote_choice)
+    success, message = vote(tc, vote_choice)
+    print(message)

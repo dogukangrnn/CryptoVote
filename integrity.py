@@ -1,10 +1,9 @@
 import hashlib
-import json
-from database import BALLOT_FILE, read_ballots
+from database import read_ballots
 
 
-def calculate_hash(token, encrypted_vote, previous_hash):
-    data = f"{token}{encrypted_vote}{previous_hash}"
+def calculate_hash(token, encrypted_vote, timestamp, previous_hash):
+    data = f"{token}{encrypted_vote}{timestamp}{previous_hash}"
     return hashlib.sha256(data.encode("utf-8")).hexdigest()
 
 
@@ -28,6 +27,7 @@ def verify_chain():
         expected_hash = calculate_hash(
             ballot["token"],
             ballot["encrypted_vote"],
+            ballot["timestamp"],
             ballot["previous_hash"]
         )
 

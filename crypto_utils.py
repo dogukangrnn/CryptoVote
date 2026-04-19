@@ -5,6 +5,7 @@ from cryptography.hazmat.primitives import padding as sym_padding
 from dotenv import load_dotenv
 import os
 import base64
+import hashlib
 
 load_dotenv()
 
@@ -146,6 +147,14 @@ def decrypt_file(input_path, output_path):
     print("AES şifreli dosya çözüldü.")
 
 
+def hash_text(text):
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+
+
+def verify_text_hash(text, stored_hash):
+    return hash_text(text) == stored_hash
+
+
 if __name__ == "__main__":
     generate_keys()
 
@@ -156,3 +165,8 @@ if __name__ == "__main__":
     print("Orijinal Oy:", test_vote)
     print("Şifreli Oy:", encrypted_vote)
     print("Çözülmüş Oy:", decrypted_vote)
+
+    test_password = "12345"
+    hashed_password = hash_text(test_password)
+    print("Test Şifre Hash:", hashed_password)
+    print("Doğrulama:", verify_text_hash("12345", hashed_password))

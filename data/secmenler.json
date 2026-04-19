@@ -2,16 +2,16 @@
     {
         "tc": "11111111111",
         "oy_kullandi": true,
-        "token": "d2206cc623af94aa"
+        "token": "099c0ba8101b5a0f"
     },
     {
         "tc": "22222222222",
-        "oy_kullandi": true,
-        "token": "63bb734f2dea1cd5"
+        "oy_kullandi": false,
+        "token": null
     },
     {
         "tc": "33333333333",
-        "oy_kullandi": true,
-        "token": "b93c8e65fe65ec84"
+        "oy_kullandi": false,
+        "token": null
     }
 ]
