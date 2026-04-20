@@ -1,0 +1,24 @@
+[2026-04-19 11:07:02] [SISTEM] Uygulama başlatıldı.
+[2026-04-19 11:07:13] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 11:16:22] [SISTEM] Uygulama başlatıldı.
+[2026-04-19 11:16:33] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 11:16:37] [ZINCIR] Hash zinciri yeniden oluşturuldu.
+[2026-04-19 11:16:42] [SANDIK] Sandık açıldı ve sayım yapıldı.
+[2026-04-19 11:16:48] [IMPORT] TC listesi aktarıldı: tcler.txt | 100 seçmen başarıyla sisteme aktarıldı.
+[2026-04-19 11:16:55] [SISTEM] Uygulama başlatıldı.
+[2026-04-19 11:17:03] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 11:17:07] [RESET] Sistem sıfırlandı (tüm oylar temizlendi).
+[2026-04-19 11:17:12] [SISTEM] Uygulama başlatıldı.
+[2026-04-19 11:22:25] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 11:22:30] [LOG] Loglar görüntülendi.
+[2026-04-19 11:25:43] [OY] Oy kullanıldı: 176*****726
+[2026-04-19 11:25:52] [OY] Oy kullanıldı: 737*****780
+[2026-04-19 11:26:04] [OY] Oy kullanıldı: 742*****406
+[2026-04-19 11:26:09] [HATA] Oy verme başarısız: 742*****406 | Bu seçmen zaten oy kullanmış.
+[2026-04-19 11:26:24] [OY] Oy kullanıldı: 532*****964
+[2026-04-19 11:26:30] [OY] Oy kullanıldı: 824*****810
+[2026-04-19 11:26:44] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 11:26:50] [SANDIK] Sandık açıldı ve sayım yapıldı.
+[2026-04-19 11:27:03] [ZINCIR] Hash zinciri yeniden oluşturuldu.
+[2026-04-19 11:27:06] [LOG] Loglar görüntülendi.
+[2026-04-19 11:28:38] [ZINCIR] Hash zinciri yeniden oluşturuldu.

@@ -1,0 +1,39 @@
+[2026-04-19 10:02:48] [SISTEM] Sistem güvenli modda başlatıldı.
+[2026-04-19 10:02:58] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 10:03:05] [IMPORT] TC listesi sisteme aktarıldı: tcler.txt | 100 seçmen başarıyla sisteme aktarıldı.
+[2026-04-19 10:03:11] [LOG] Güvenlik logları görüntülendi.
+[2026-04-19 10:03:33] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 10:03:54] [LOG] Güvenlik logları görüntülendi.
+[2026-04-19 10:05:08] [OY] Seçmen girişi başarılı: 341*****714
+[2026-04-19 10:05:14] [HATA] Oy verme başarısız: 341*****714 | Bu kişi zaten oy kullanmış!
+[2026-04-19 10:05:25] [SANDIK] Sandık açıldı ve sayım yapıldı.
+[2026-04-19 10:05:57] [RESET] SİSTEM YÖNETİCİ TARAFINDAN SIFIRLANDI.
+[2026-04-19 10:05:59] [BILGI] Sandık açıldı ancak sandık boş.
+[2026-04-19 10:06:04] [LOG] Güvenlik logları görüntülendi.
+[2026-04-19 10:06:30] [OY] Seçmen girişi başarılı: 341*****714
+[2026-04-19 10:06:36] [SANDIK] Sandık açıldı ve sayım yapıldı.
+[2026-04-19 10:09:25] [SISTEM] Sistem güvenli modda başlatıldı.
+[2026-04-19 10:09:33] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 10:40:55] [SISTEM] Sistem güvenli modda başlatıldı.
+[2026-04-19 10:41:07] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 10:41:18] [UYARI] Sandık açma denemesi reddedildi: hash zinciri bozuk.
+[2026-04-19 10:41:19] [UYARI] Sandık açma denemesi reddedildi: hash zinciri bozuk.
+[2026-04-19 10:41:20] [UYARI] Sandık açma denemesi reddedildi: hash zinciri bozuk.
+[2026-04-19 10:41:20] [UYARI] Sandık açma denemesi reddedildi: hash zinciri bozuk.
+[2026-04-19 10:41:20] [UYARI] Sandık açma denemesi reddedildi: hash zinciri bozuk.
+[2026-04-19 10:41:20] [UYARI] Sandık açma denemesi reddedildi: hash zinciri bozuk.
+[2026-04-19 10:41:21] [UYARI] Sandık açma denemesi reddedildi: hash zinciri bozuk.
+[2026-04-19 10:41:27] [LOG] Güvenlik logları görüntülendi.
+[2026-04-19 10:42:16] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 10:42:21] [HATA] Sistem sıfırlama başarısız: name 'save_voters' is not defined
+[2026-04-19 10:46:33] [SISTEM] Sistem güvenli modda başlatıldı.
+[2026-04-19 10:46:41] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 10:46:45] [SANDIK] Sandık açıldı ve sayım yapıldı.
+[2026-04-19 10:46:52] [HATA] Sistem sıfırlama başarısız: name 'save_voters' is not defined
+[2026-04-19 10:47:16] [OY] Seçmen girişi başarılı: 193*****918
+[2026-04-19 10:47:23] [SANDIK] Sandık açıldı ve sayım yapıldı.
+[2026-04-19 10:50:10] [SISTEM] Sistem güvenli modda başlatıldı.
+[2026-04-19 10:50:17] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 10:50:24] [HATA] Sistem sıfırlama başarısız: name 'save_voters' is not defined
+[2026-04-19 10:51:24] [ADMIN] Yönetici girişi yapıldı.
+[2026-04-19 10:51:30] [HATA] Sistem sıfırlama başarısız: name 'save_voters' is not defined

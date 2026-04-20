@@ -1,0 +1,135 @@
+[
+    {
+        "timestamp": "2026-04-19 11:47:16",
+        "event_type": "SISTEM",
+        "detail": "Uygulama başlatıldı.",
+        "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "current_hash": "e827789bc65ad2a6194b88580f59b2ed22e2004205deab804147a49d32344c65"
+    },
+    {
+        "timestamp": "2026-04-19 11:47:27",
+        "event_type": "ADMIN",
+        "detail": "Yönetici girişi yapıldı.",
+        "previous_hash": "e827789bc65ad2a6194b88580f59b2ed22e2004205deab804147a49d32344c65",
+        "current_hash": "675c137886c88942d124feb1a7219595fceeaf3322c2ddd87b0ee221ddfcae49"
+    },
+    {
+        "timestamp": "2026-04-20 17:30:54",
+        "event_type": "SISTEM",
+        "detail": "Uygulama başlatıldı.",
+        "previous_hash": "675c137886c88942d124feb1a7219595fceeaf3322c2ddd87b0ee221ddfcae49",
+        "current_hash": "4e5b35ebb08a191ae3264edea1434534ec99cbed9ba63fe80702903eabb7bd6f"
+    },
+    {
+        "timestamp": "2026-04-20 17:31:03",
+        "event_type": "ADMIN",
+        "detail": "Yönetici girişi yapıldı.",
+        "previous_hash": "4e5b35ebb08a191ae3264edea1434534ec99cbed9ba63fe80702903eabb7bd6f",
+        "current_hash": "b82c5a645e22b8f017136108773d13c86be160bdb5f7ddfa3275c8ad48a2bfec"
+    },
+    {
+        "timestamp": "2026-04-20 17:34:01",
+        "event_type": "SISTEM",
+        "detail": "Uygulama başlatıldı.",
+        "previous_hash": "b82c5a645e22b8f017136108773d13c86be160bdb5f7ddfa3275c8ad48a2bfec",
+        "current_hash": "578cac15d6cc3ba1bbbc3267069a8cb561e34dcba4901ca8b9df8cab155497c5"
+    },
+    {
+        "timestamp": "2026-04-20 17:34:11",
+        "event_type": "ADMIN",
+        "detail": "Yönetici girişi yapıldı.",
+        "previous_hash": "578cac15d6cc3ba1bbbc3267069a8cb561e34dcba4901ca8b9df8cab155497c5",
+        "current_hash": "52929f7bc386fdeb56a3681d778ef26b4ff24d91e495af6a313728a9ede4204b"
+    },
+    {
+        "timestamp": "2026-04-20 17:42:48",
+        "event_type": "SISTEM",
+        "detail": "Uygulama başlatıldı.",
+        "previous_hash": "52929f7bc386fdeb56a3681d778ef26b4ff24d91e495af6a313728a9ede4204b",
+        "current_hash": "c488535627504f3209091135b1dc5dc59438d8ad3550f1b6ba6aa80a722e37cb"
+    },
+    {
+        "timestamp": "2026-04-20 17:43:04",
+        "event_type": "ADMIN",
+        "detail": "Yönetici girişi yapıldı.",
+        "previous_hash": "c488535627504f3209091135b1dc5dc59438d8ad3550f1b6ba6aa80a722e37cb",
+        "current_hash": "c414c74e5a908da9244adf00a6855db44e589a3599f9e4c27145c86b6b1e1d2e"
+    },
+    {
+        "timestamp": "2026-04-20 17:43:13",
+        "event_type": "RESET",
+        "detail": "Sistem sıfırlandı (tüm oylar temizlendi).",
+        "previous_hash": "c414c74e5a908da9244adf00a6855db44e589a3599f9e4c27145c86b6b1e1d2e",
+        "current_hash": "e2de68168d1151c1ec567d71dac9ef9fbfebdb1b53ddba594027910b1a662702"
+    },
+    {
+        "timestamp": "2026-04-20 17:43:20",
+        "event_type": "LOG",
+        "detail": "Loglar görüntülendi.",
+        "previous_hash": "e2de68168d1151c1ec567d71dac9ef9fbfebdb1b53ddba594027910b1a662702",
+        "current_hash": "4e6d37793097dc6a04364e4d2b083acc131939bd23324b762a78cf57aeb35520"
+    },
+    {
+        "timestamp": "2026-04-20 17:43:29",
+        "event_type": "ZINCIR",
+        "detail": "Hash zinciri yeniden oluşturuldu.",
+        "previous_hash": "4e6d37793097dc6a04364e4d2b083acc131939bd23324b762a78cf57aeb35520",
+        "current_hash": "0bbd9791f9c5e1f0c3acc497b53ce85f0cd5433bfd5cd9bf91476d780f0bd8aa"
+    },
+    {
+        "timestamp": "2026-04-20 17:44:15",
+        "event_type": "OY",
+        "detail": "Oy kullanıldı: 967*****010",
+        "previous_hash": "0bbd9791f9c5e1f0c3acc497b53ce85f0cd5433bfd5cd9bf91476d780f0bd8aa",
+        "current_hash": "37976b30cbe87e782eb09ca6100501639162463a06740b59a2790f3b9fd14ca6"
+    },
+    {
+        "timestamp": "2026-04-20 17:44:23",
+        "event_type": "OY",
+        "detail": "Oy kullanıldı: 856*****694",
+        "previous_hash": "37976b30cbe87e782eb09ca6100501639162463a06740b59a2790f3b9fd14ca6",
+        "current_hash": "91f989d73b14a9aa5e858438c7ab9c26a4ff244574a30b76ef65c6742fe0f01e"
+    },
+    {
+        "timestamp": "2026-04-20 17:44:33",
+        "event_type": "OY",
+        "detail": "Oy kullanıldı: 760*****942",
+        "previous_hash": "91f989d73b14a9aa5e858438c7ab9c26a4ff244574a30b76ef65c6742fe0f01e",
+        "current_hash": "7ca8c05e9c09ad6e21fa3c963e70e31cdd05f62d79d746b798365140e007ed94"
+    },
+    {
+        "timestamp": "2026-04-20 17:44:38",
+        "event_type": "HATA",
+        "detail": "Oy verme başarısız: 760*****942 | Bu seçmen zaten oy kullanmış.",
+        "previous_hash": "7ca8c05e9c09ad6e21fa3c963e70e31cdd05f62d79d746b798365140e007ed94",
+        "current_hash": "523714b6d0f0942621604e91e2712850a9db093d2631a368c441dbdc41cf2d7d"
+    },
+    {
+        "timestamp": "2026-04-20 17:44:48",
+        "event_type": "OY",
+        "detail": "Oy kullanıldı: 824*****810",
+        "previous_hash": "523714b6d0f0942621604e91e2712850a9db093d2631a368c441dbdc41cf2d7d",
+        "current_hash": "1ccbc3bf10aa91cc08304c478425f1cc1f93e7d4377ff53bf8e8c2e5c57838b6"
+    },
+    {
+        "timestamp": "2026-04-20 17:44:55",
+        "event_type": "OY",
+        "detail": "Oy kullanıldı: 943*****156",
+        "previous_hash": "1ccbc3bf10aa91cc08304c478425f1cc1f93e7d4377ff53bf8e8c2e5c57838b6",
+        "current_hash": "976a2acc7e1a99f2bc78e1eaaf4b077bf6937724e8506689ae261889dec7211c"
+    },
+    {
+        "timestamp": "2026-04-20 17:45:18",
+        "event_type": "SANDIK",
+        "detail": "Sandık açıldı ve sayım yapıldı.",
+        "previous_hash": "976a2acc7e1a99f2bc78e1eaaf4b077bf6937724e8506689ae261889dec7211c",
+        "current_hash": "bab9c9f44076c8174b5c7125a06c2ecd9769ad480bd8784945c0daa125eab180"
+    },
+    {
+        "timestamp": "2026-04-20 17:46:15",
+        "event_type": "ZINCIR",
+        "detail": "Hash zinciri yeniden oluşturuldu.",
+        "previous_hash": "bab9c9f44076c8174b5c7125a06c2ecd9769ad480bd8784945c0daa125eab180",
+        "current_hash": "96f23caca15b5debd317af4580227346c9f7d0d5cd85e22a744d9b840a4ca2b3"
+    }
+]
