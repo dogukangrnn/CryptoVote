@@ -131,5 +131,194 @@
         "detail": "Hash zinciri yeniden oluşturuldu.",
         "previous_hash": "bab9c9f44076c8174b5c7125a06c2ecd9769ad480bd8784945c0daa125eab180",
         "current_hash": "96f23caca15b5debd317af4580227346c9f7d0d5cd85e22a744d9b840a4ca2b3"
+    },
+    {
+        "timestamp": "2026-04-20 18:09:52",
+        "event_type": "SISTEM",
+        "detail": "Uygulama başlatıldı.",
+        "previous_hash": "96f23caca15b5debd317af4580227346c9f7d0d5cd85e22a744d9b840a4ca2b3",
+        "current_hash": "1e3fc63102f2af092cf4aa60cb2f17476b02c26f3485c97dd47b06a274203053"
+    },
+    {
+        "timestamp": "2026-04-20 18:10:03",
+        "event_type": "ADMIN",
+        "detail": "Yönetici girişi yapıldı.",
+        "previous_hash": "1e3fc63102f2af092cf4aa60cb2f17476b02c26f3485c97dd47b06a274203053",
+        "current_hash": "7f1b3c1e392a8c4814941d8a36eef7bfb70d04d86a7fd46e900f326ae922c7fa"
+    },
+    {
+        "timestamp": "2026-04-20 18:10:07",
+        "event_type": "ZINCIR",
+        "detail": "Hash zinciri yeniden oluşturuldu.",
+        "previous_hash": "7f1b3c1e392a8c4814941d8a36eef7bfb70d04d86a7fd46e900f326ae922c7fa",
+        "current_hash": "ebb2b6de47f5cb89f0576e0f40bab9090ede50c59a581a84facde94014fb2cb2"
+    },
+    {
+        "timestamp": "2026-04-20 18:10:11",
+        "event_type": "HATA",
+        "detail": "Sandık açma başarısız: Oy çözme hatası: Invalid base64-encoded string: number of data characters (341) cannot be 1 more than a multiple of 4",
+        "previous_hash": "ebb2b6de47f5cb89f0576e0f40bab9090ede50c59a581a84facde94014fb2cb2",
+        "current_hash": "d342a1f266497b4ae2ab253effb20ae0d722349be4424ed37d79c6a606c1d97a"
+    },
+    {
+        "timestamp": "2026-04-20 18:10:22",
+        "event_type": "ZINCIR",
+        "detail": "Hash zinciri yeniden oluşturuldu.",
+        "previous_hash": "d342a1f266497b4ae2ab253effb20ae0d722349be4424ed37d79c6a606c1d97a",
+        "current_hash": "8a6cf2357aa404e38d07a80ca833e196ec5ec309116646dd58a6c351296e28dc"
+    },
+    {
+        "timestamp": "2026-04-20 18:10:24",
+        "event_type": "HATA",
+        "detail": "Sandık açma başarısız: Oy çözme hatası: Invalid base64-encoded string: number of data characters (341) cannot be 1 more than a multiple of 4",
+        "previous_hash": "8a6cf2357aa404e38d07a80ca833e196ec5ec309116646dd58a6c351296e28dc",
+        "current_hash": "f6e0482a9811ce13ef9c652c0abae283c915f7d96ca76b210d825957f134573d"
+    },
+    {
+        "timestamp": "2026-04-20 18:11:28",
+        "event_type": "SISTEM",
+        "detail": "Uygulama başlatıldı.",
+        "previous_hash": "f6e0482a9811ce13ef9c652c0abae283c915f7d96ca76b210d825957f134573d",
+        "current_hash": "2618b217411de86e810c7d1e7ca9633e18e3a2c087b1a3d6e40b0cd800e70264"
+    },
+    {
+        "timestamp": "2026-04-20 18:11:37",
+        "event_type": "ADMIN",
+        "detail": "Yönetici girişi yapıldı.",
+        "previous_hash": "2618b217411de86e810c7d1e7ca9633e18e3a2c087b1a3d6e40b0cd800e70264",
+        "current_hash": "a0ba04df1f793d0d1831b5864231396b75d29d318aec35e52a6ed204465f46ff"
+    },
+    {
+        "timestamp": "2026-04-20 18:11:39",
+        "event_type": "ZINCIR",
+        "detail": "Hash zinciri yeniden oluşturuldu.",
+        "previous_hash": "a0ba04df1f793d0d1831b5864231396b75d29d318aec35e52a6ed204465f46ff",
+        "current_hash": "e2a4dea87ef5bf7d76bb840f8ea61e00557ffe898aea6186a209e1e7bde29f18"
+    },
+    {
+        "timestamp": "2026-04-20 18:11:41",
+        "event_type": "SANDIK",
+        "detail": "Sandık açıldı ve sayım yapıldı.",
+        "previous_hash": "e2a4dea87ef5bf7d76bb840f8ea61e00557ffe898aea6186a209e1e7bde29f18",
+        "current_hash": "f01f9dc05109c00e0c2ed0fa3d2061bf390e50ccc8abb819867d5d184f2bdd08"
+    },
+    {
+        "timestamp": "2026-04-20 18:11:42",
+        "event_type": "SANDIK",
+        "detail": "Sandık açıldı ve sayım yapıldı.",
+        "previous_hash": "f01f9dc05109c00e0c2ed0fa3d2061bf390e50ccc8abb819867d5d184f2bdd08",
+        "current_hash": "8ec3a7face72ceb5051476c46c2dc3e6d21d0b5232ad4ecb8f6ce24b6ad20162"
+    },
+    {
+        "timestamp": "2026-04-21 03:05:05",
+        "event_type": "SISTEM",
+        "detail": "Uygulama başlatıldı.",
+        "previous_hash": "8ec3a7face72ceb5051476c46c2dc3e6d21d0b5232ad4ecb8f6ce24b6ad20162",
+        "current_hash": "c7341065ea1a0eb96b0d9659df405b565dbfebe42a9b91f0c3273429405559b4"
+    },
+    {
+        "timestamp": "2026-04-21 03:05:16",
+        "event_type": "ADMIN",
+        "detail": "Yönetici girişi yapıldı.",
+        "previous_hash": "c7341065ea1a0eb96b0d9659df405b565dbfebe42a9b91f0c3273429405559b4",
+        "current_hash": "76192a27359b89afb3918c3259617c4389d6efaa857e42fb4c1f0feda5731ab9"
+    },
+    {
+        "timestamp": "2026-04-21 03:05:21",
+        "event_type": "LOG",
+        "detail": "Loglar görüntülendi.",
+        "previous_hash": "76192a27359b89afb3918c3259617c4389d6efaa857e42fb4c1f0feda5731ab9",
+        "current_hash": "5b523e0ace02b68c850514dd4f59d1f39880a3bd93691fc9af5756c8b44d6626"
+    },
+    {
+        "timestamp": "2026-04-21 03:06:48",
+        "event_type": "LOG",
+        "detail": "Loglar görüntülendi.",
+        "previous_hash": "5b523e0ace02b68c850514dd4f59d1f39880a3bd93691fc9af5756c8b44d6626",
+        "current_hash": "84b595fd0beeadc67d1313ea24b0da0afcb79db5e89533b66ef2a99cdf594c1a"
+    },
+    {
+        "timestamp": "2026-04-21 03:07:41",
+        "event_type": "ZINCIR",
+        "detail": "Hash zinciri yeniden oluşturuldu.",
+        "previous_hash": "84b595fd0beeadc67d1313ea24b0da0afcb79db5e89533b66ef2a99cdf594c1a",
+        "current_hash": "968bf60da1596bd4e73df1297e5ce912905fceefd6f704bc8e0e9072ced862f5"
+    },
+    {
+        "timestamp": "2026-04-21 03:08:00",
+        "event_type": "SANDIK",
+        "detail": "Sandık açıldı ve sayım yapıldı.",
+        "previous_hash": "968bf60da1596bd4e73df1297e5ce912905fceefd6f704bc8e0e9072ced862f5",
+        "current_hash": "6b08c204416025978f39d4ed2170034dd78d643f0a19de28b230a0ccc3bec262"
+    },
+    {
+        "timestamp": "2026-04-21 03:08:00",
+        "event_type": "SANDIK",
+        "detail": "Sandık açıldı ve sayım yapıldı.",
+        "previous_hash": "6b08c204416025978f39d4ed2170034dd78d643f0a19de28b230a0ccc3bec262",
+        "current_hash": "0f422efeaac984c29c7cea8e2d55110d149aac0351e349f20a65a0ab51dd49ec"
+    },
+    {
+        "timestamp": "2026-04-21 03:08:03",
+        "event_type": "LOG",
+        "detail": "Loglar görüntülendi.",
+        "previous_hash": "0f422efeaac984c29c7cea8e2d55110d149aac0351e349f20a65a0ab51dd49ec",
+        "current_hash": "6556d96d17e4890131bb27272ca8d599fbcc7b3abe34a9fc5c33f8d460365b7e"
+    },
+    {
+        "timestamp": "2026-04-21 03:25:58",
+        "event_type": "SISTEM",
+        "detail": "Uygulama başlatıldı.",
+        "previous_hash": "6556d96d17e4890131bb27272ca8d599fbcc7b3abe34a9fc5c33f8d460365b7e",
+        "current_hash": "3dd15b6bb81eea80221f8377df3f2c7329e1862d0d2931d59af81af1bf0ecc0e"
+    },
+    {
+        "timestamp": "2026-04-21 03:26:39",
+        "event_type": "ADMIN",
+        "detail": "Yönetici girişi yapıldı.",
+        "previous_hash": "3dd15b6bb81eea80221f8377df3f2c7329e1862d0d2931d59af81af1bf0ecc0e",
+        "current_hash": "ba52b9772209883c36a322ad0cd0b739d1184ce8f52fddfd031d775da8f1ccfd"
+    },
+    {
+        "timestamp": "2026-04-21 03:29:29",
+        "event_type": "SANDIK",
+        "detail": "Sandık açıldı ve sayım yapıldı.",
+        "previous_hash": "ba52b9772209883c36a322ad0cd0b739d1184ce8f52fddfd031d775da8f1ccfd",
+        "current_hash": "3c26d611213a8e08df8fd8d6e7435419f13d55aac0d14ea02028a0352a3a002d"
+    },
+    {
+        "timestamp": "2026-04-21 03:30:04",
+        "event_type": "OY",
+        "detail": "Oy kullanıldı: 521*****266",
+        "previous_hash": "3c26d611213a8e08df8fd8d6e7435419f13d55aac0d14ea02028a0352a3a002d",
+        "current_hash": "fb0f5b8013f767169c12fd837de486607923dd57295af4b0cd6ba9b47c001d80"
+    },
+    {
+        "timestamp": "2026-04-21 03:30:11",
+        "event_type": "HATA",
+        "detail": "Oy verme başarısız: 521*****266 | Bu seçmen zaten oy kullanmış.",
+        "previous_hash": "fb0f5b8013f767169c12fd837de486607923dd57295af4b0cd6ba9b47c001d80",
+        "current_hash": "e6f9a7e7feceffdb9b2acac00293da1c9c693d38d41a83261066493b723cee13"
+    },
+    {
+        "timestamp": "2026-04-21 03:30:25",
+        "event_type": "SANDIK",
+        "detail": "Sandık açıldı ve sayım yapıldı.",
+        "previous_hash": "e6f9a7e7feceffdb9b2acac00293da1c9c693d38d41a83261066493b723cee13",
+        "current_hash": "d8c2a026119aa97cf7c3ee0fd7a30c7142fccd48cf8ca9fc67723d8e2a4eff95"
+    },
+    {
+        "timestamp": "2026-04-21 03:30:27",
+        "event_type": "SANDIK",
+        "detail": "Sandık açıldı ve sayım yapıldı.",
+        "previous_hash": "d8c2a026119aa97cf7c3ee0fd7a30c7142fccd48cf8ca9fc67723d8e2a4eff95",
+        "current_hash": "e41f59e3f4c98413d2f0e650d15b3a38aa6772080fbbe3144034a9a166740c0f"
+    },
+    {
+        "timestamp": "2026-04-21 04:55:20",
+        "event_type": "SISTEM",
+        "detail": "Uygulama başlatıldı.",
+        "previous_hash": "e41f59e3f4c98413d2f0e650d15b3a38aa6772080fbbe3144034a9a166740c0f",
+        "current_hash": "749e838059d75b799bfaa65e547a718153822397a06eda38d9ece28f4b0d26d1"
     }
 ]

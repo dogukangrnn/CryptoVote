@@ -36,8 +36,8 @@
     },
     {
         "tc": "52166837266",
-        "oy_kullandi": false,
-        "token_hash": null
+        "oy_kullandi": true,
+        "token_hash": "99cacf03383b9a8e9fd20564a94e5b459d10223a1378dc24f9384980860e3982"
     },
     {
         "tc": "73755549780",

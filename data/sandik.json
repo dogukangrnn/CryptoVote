@@ -33,5 +33,12 @@
         "timestamp": "2026-04-20 17:44:55",
         "previous_hash": "d9b305b7a4d24c5b4e6ceef0b9be085134edadcdf7c523a90f11c3f7b1125646",
         "current_hash": "b340a4be753a1e660a34bc9fd2438e3def43b4479507ceec15022af203ee1d46"
+    },
+    {
+        "token": "35df114af1bd7093c1e5381e6176b635",
+        "encrypted_vote": "Iu4QoF/f0xHhyyAbUWSfU2sKqsTGx+0l8fLyTxIUJZNiEMcSfT3s7MLDzbOthFe5v6DmLBw2Zzlglrb8HAiSHjPPy+NCx+07B6DiQVbFIVnh/onIqoo8CH1KTCgHGKqmX7br1zEbMhyT95PZU211FjfxGArFJDHnDd6scjIlbAR86UdjduUi8uaIc8lLGJ8HV1vCTpHmgpQ4Vhh+FfjSUNyXRfgvU3v2MT1+smleS/y+Cj1+GXytHB+AXbQNZnNKy0TMU+YzlpgZaW0z47Rj5WFz+u7ko4nJNWyqwrSFSWBVqL+FDngKPhfVyq5x5PN/QYHrCcwHhr+Rtm1hDGSZbg==",
+        "timestamp": "2026-04-21 03:30:04",
+        "previous_hash": "b340a4be753a1e660a34bc9fd2438e3def43b4479507ceec15022af203ee1d46",
+        "current_hash": "efedaa49fd5837129757127fbfe28620713e9e09e704816ef98f7eeab4757682"
     }
 ]
