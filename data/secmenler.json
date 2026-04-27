@@ -36,8 +36,8 @@
     },
     {
         "tc": "52166837266",
-        "oy_kullandi": true,
-        "token_hash": "99cacf03383b9a8e9fd20564a94e5b459d10223a1378dc24f9384980860e3982"
+        "oy_kullandi": false,
+        "token_hash": null
     },
     {
         "tc": "73755549780",
@@ -66,8 +66,8 @@
     },
     {
         "tc": "51970385390",
-        "oy_kullandi": false,
-        "token_hash": null
+        "oy_kullandi": true,
+        "token_hash": "c72dd0a8a4b2d83433aa5751066605e6efee46ef24d9415f52b44d6064bf565d"
     },
     {
         "tc": "25357483658",
@@ -91,8 +91,8 @@
     },
     {
         "tc": "82426649810",
-        "oy_kullandi": true,
-        "token_hash": "c2cb9b2355f81eb61e314dc3d26412671471bcdc1ccd6f1ebed8b97ad484df69"
+        "oy_kullandi": false,
+        "token_hash": null
     },
     {
         "tc": "83922367932",
@@ -101,8 +101,8 @@
     },
     {
         "tc": "53233896964",
-        "oy_kullandi": false,
-        "token_hash": null
+        "oy_kullandi": true,
+        "token_hash": "4a49dbda2757f1f88dbc2bee79d489c1912ba134be7a33ab6367dbcc28b9ba17"
     },
     {
         "tc": "36710433142",
@@ -121,8 +121,8 @@
     },
     {
         "tc": "96796435010",
-        "oy_kullandi": true,
-        "token_hash": "523e654f04d0025c6f85ea75605a23b67130641594648bad3c0b57812b650a0c"
+        "oy_kullandi": false,
+        "token_hash": null
     },
     {
         "tc": "53274085396",
@@ -131,8 +131,8 @@
     },
     {
         "tc": "85694692694",
-        "oy_kullandi": true,
-        "token_hash": "bb1395ede3aba6a634b77020ec1aa9c4d89d8e2758898dfed14aadce92787824"
+        "oy_kullandi": false,
+        "token_hash": null
     },
     {
         "tc": "56466206128",
@@ -156,8 +156,8 @@
     },
     {
         "tc": "76070432942",
-        "oy_kullandi": true,
-        "token_hash": "9aa68746e0aefd626884b2dd2c97c2b48d4e30f5b0d11d3f1b38f43a31f0418e"
+        "oy_kullandi": false,
+        "token_hash": null
     },
     {
         "tc": "63396129212",
@@ -191,8 +191,8 @@
     },
     {
         "tc": "94336988156",
-        "oy_kullandi": true,
-        "token_hash": "3059fc64060c4a3609fd57bc4a86d549f16763d33aa36674cd31276a3b2c9d04"
+        "oy_kullandi": false,
+        "token_hash": null
     },
     {
         "tc": "69475048238",
